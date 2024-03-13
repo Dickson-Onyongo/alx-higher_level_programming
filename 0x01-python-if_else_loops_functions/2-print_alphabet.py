@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-for i in range(97, 123):
-    print(chr(i), end=' ')
+j  = ' '.join(chr(i)for i in range(97, 123))
+    print("{}".format(j), end=' ')
 
