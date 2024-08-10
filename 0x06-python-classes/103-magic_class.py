@@ -1,10 +1,10 @@
 #!/usr/bin/python3
-"""writing a docstring"""
+"""Writing a docstring"""
 import math
 
 
 class MagicClass:
-    """set up the magic"""
+    """settting up the magic"""
 
     def __init__(self, radius=0):
         """ writing another docstring """
